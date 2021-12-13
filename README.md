@@ -24,6 +24,22 @@ CREATE A  prog.hero portfolio
 <Section class content=
 <h3>Welcome to span class purple-color="Joseph T.
 Cooper"</span>World < h3>
-<app id=Hello World 
+<app id=Hello World
+<div class content=half-width ">
+<Scipt=src="bootstrap.min.js">
+<div class content="Experience">
+<Section class content="Big Dream">
+<p3>To Become a "Web Developer/Html">
+<p3> I have a working knowledge of Css,HTML and 
+j.script">
 
+<Section class content="Education">
+.Education p {
+    Background-color:blue ,gold;
+    High School:"Benjamin Franklin High school;
+    College: Community College of Philadelphia;
+< p3>
+}
 <!--custom bootstrap-->
+<div class container="half-width">
+<Section class="container=bootstrap.min.js">
